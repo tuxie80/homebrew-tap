@@ -1,6 +1,6 @@
 cask "txui" do
-  version "1.3.0"
-  sha256 "7abd70efbdad71ab8b9fbd11674f54bb32dfe479f00510b152b7260fbc3db2e5"
+  version "1.4.0"
+  sha256 "b1da9c04fc1306db1e75054291b3820f8b33fa72a86b868de619d8212869e981"
 
   url "https://github.com/tuxie80/txui/releases/download/v#{version}/TxUI_#{version}_universal.dmg"
   name "TxUI"
